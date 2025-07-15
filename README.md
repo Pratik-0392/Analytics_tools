@@ -18,5 +18,8 @@ A comprehensive Excel dashboard to track sales, profit margins, and popular prod
 🔹 Airline Data Analysis (SQL Project):
 A SQL-based project analyzing airline performance, flight delays, and passenger trends. Focused on writing efficient queries to extract business-relevant insights from structured flight data.
 
+📊 Sales Dashboard ( Power BI):
+    This Power BI Sales Dashboard provides a comprehensive overview of business performance through interactive visualizations and dynamic filters, enabling users to track key metrics like total revenue, profit, and order volume. It highlights top-performing products, regional sales distribution, and category-wise performance, supporting strategic decision-making. Designed with a clean layout and user-friendly interface, the dashboard incorporates DAX-based measures, slicers, and drill-down features to uncover deep insights. Ideal for sales analysts and managers, it transforms raw sales data into meaningful trends and KPIs for quick evaluation and reporting, enhancing business intelligence and driving data-informed actions across the organization.
+
 📌 Purpose:
 This repository aims to demonstrate how analytical tools can be applied to extract insights, monitor business KPIs, and support data-driven decision-making across industries.
